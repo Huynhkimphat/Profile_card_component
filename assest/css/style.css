@@ -22,7 +22,6 @@ main {
     height: 100vh;
     background-image: url(../images/bg-pattern-top.svg), url(../images/bg-pattern-bottom.svg);
     background-repeat: no-repeat;
-    /* solucion rara, pero funciona 😁 */
     background-position: right 45vw top -120vh, 48vw 50vh;
     background-size: 180vh;
 }
